@@ -10,7 +10,7 @@
       <relativePath>../org.liveSense.parent</relativePath>
   	</parent>
   
-    <artifactId>org.liveSense.fragment.jackrabbit.server.ddl</artifactId>
+    <artifactId>org.liveSense.fragment.jackrabbit.server.jaybird.ddl</artifactId>
     <version>1.0.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
