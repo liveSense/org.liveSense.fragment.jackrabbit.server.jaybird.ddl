@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><features name="liveSense-${liveSense.version}-fragment-jackrabbit-server-jaybird-ddl" xmlns="http://karaf.apache.org/xmlns/features/v1.0.0">
+	<feature name="liveSense-fragment-jackrabbit-server-jaybird-ddl" version="${liveSense.fragment.jackrabbit.server.jaybird.ddl.version}" description="liveSense fragment jackrabbit server jaybird ddl">
+		<bundle>mvn:com.github.livesense/org.liveSense.fragment.jackrabbit.server.jaybird.ddl/${liveSense.fragment.jackrabbit.server.jaybird.ddl.version}</bundle>
+	</feature>
+</features>
