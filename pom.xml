@@ -6,9 +6,10 @@
   	<parent>
       <groupId>com.github.livesense</groupId>
       <artifactId>org.liveSense.parent</artifactId>      
-      <version>2-SNAPSHOT</version>
+      <version>1.0.3</version>
       <relativePath>..</relativePath>
   	</parent>
+	<version>1.0.3-SNAPSHOT</version>
 	<scm>
 		<connection>scm:git:https://github.com/liveSense/org.liveSense.fragment.jackrabbit.server.jaybird.ddl.git</connection>
 		<developerConnection>scm:git:https://github.com/liveSense/org.liveSense.fragment.jackrabbit.server.jaybird.ddl.git</developerConnection>
@@ -16,7 +17,6 @@
 	</scm>
   
     <artifactId>org.liveSense.fragment.jackrabbit.server.jaybird.ddl</artifactId>
-    <version>1.0.0-SNAPSHOT</version>
     <packaging>bundle</packaging>
 
  <name>liveSense Jaybird JDBC driver DDL for JackRabbit Core</name>
